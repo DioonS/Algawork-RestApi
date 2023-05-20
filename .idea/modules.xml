@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/alga-api.iml" filepath="$PROJECT_DIR$/.idea/alga-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algawork-RestApi.iml" filepath="$PROJECT_DIR$/.idea/Algawork-RestApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alga-api/alga-api.iml" filepath="$PROJECT_DIR$/alga-api/alga-api.iml" />
     </modules>
   </component>
 </project>
