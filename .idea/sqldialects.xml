@@ -2,5 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/alga-api/src/main/resources/db.migration/V1__createtablecliente.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/alga-api/src/main/resources/db.migration/V2__createtableentrega.sql" dialect="MySQL" />
   </component>
 </project>
